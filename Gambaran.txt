@@ -1,0 +1,23 @@
+##Dashboard ->Data keseluruhan 
+=Deal
+->Data sekola yang sudah Deal 
+
+=Progress
+-> Meeting Penjelesan = chat sama admin
+-> Freetrial          = 1 bulan, freetrial menggunakan program digital(status freetrial),MU
+->Penawaran Harga     = nawar
+
+=Hold
+->tertunda 
+
+=Companies
+->list nama sekolah
+
+=Contact
+->list kontak sekolah
+
+=Lead
+->dalam proses
+
+=Profile
+->goals 
